@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+			<title>Logo Design</title>
+			<link>https://logodizajn.000webhostapp.com/index.html</link>
+			<description>Ovaj sajt se bavi izradom logoa i vizitkartica za vase poslovanje</description>
+		<image>
+			<title>Logo Design</title>
+			<url>https://logodizajn.000webhostapp.com/index.html/facicon.bmp</url>
+			<link>https://logodizajn.000webhostapp.com/index.html</link>
+			<width>90</width>
+			<height>35</height>
+		</image>
+		<item>
+			<title>Obaveštenja</title>
+			<link>https://logodizajn.000webhostapp.com/kontakt.html</link>
+			<description>U ovom delu  nam možete ostaviti svoj komentar i ocenu našeg rada.</description>
+		</item>
+		<item>
+			<title>Obaveštenje-COVID 19</title>
+			<link>https://logodizajn.000webhostapp.com/kontakt.html</link>
+			<description>Zbog celokupne situacije rezervisanje Vaših želja ce se vršiti online preko emaila-</description>
+		</item>
+	</channel>
+</rss>		
